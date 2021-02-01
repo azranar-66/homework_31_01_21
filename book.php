@@ -18,7 +18,7 @@
         <span><b>Name:</b></span><input class="row" type="text" name="name"><br><br>
         <span><b>Email:</b></span><input class="row" type="text" name="email"><br><br>
         <span><b>Messag:</b></span><br><textarea name="text" id="" cols="30" rows="10"></textarea><br>
-        <input class="input_l" type="submit" value="ok">
+        <input class="input_l" type="submit" value="ok" name="ok">
        
     </form>
     <video class="video" src="Space - 2381.mp4" autoplay muted loop></video>
